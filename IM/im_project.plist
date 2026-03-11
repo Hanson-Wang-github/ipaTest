@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <!-- TODO: Replace with the actual HTTPS URL for the IM IPA file -->
+                    <key>url</key>
+                    <string>https://wormhole.app/WqP3NN#YUstQleTsxUwDM8jozsQUA</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://example.com/downloads/im_icon_57.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://example.com/downloads/im_icon_512.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <!-- TODO: Replace with the actual Bundle ID of the IM project -->
+                <string>com.exceedcurly.new.acount</string>
+                <key>bundle-version</key>
+                <string>1.2.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>职圈2.0</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
